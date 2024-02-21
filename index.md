@@ -13,10 +13,10 @@ There are three possible tracks:
 ✨ Every dataset is a canvas, and we're here to help you paint the story. [Register and join!](https://bit.ly/48HHQtw) 👩‍💻
 
 ## Schedule (TBC)
-All webinars will be organized in Zoom, at 14:00 GMT+3 time. [Compare your time online](https://time.is/compare/1400_5_Mar_2024_in_Istanbul)
+All webinars will be organized in March 2024 (dates TBC) in Zoom, at 14:00 GMT+3 time. [Compare your time online](https://time.is/compare/1400_5_Mar_2024_in_Istanbul)
 
 
-### Webinar 1: Introduction to Visualization and General Principles of Visualization (5 March 2024, 30 mins)
+### Webinar 1: Introduction to Visualization and General Principles of Visualization (30 mins)
 - Overview of the importance of visualization in various fields.
 - Exploration of the impact of effective visualization.
 - Introduction to the course structure and objectives.
@@ -24,14 +24,14 @@ All webinars will be organized in Zoom, at 14:00 GMT+3 time. [Compare your time 
 - Understanding visual perception and design principles.
 - Examples and case studies illustrating successful visualizations.
 
-### Webinar 2: Visualization of Data - Charts (7 March 2024, 30 mins)
+### Webinar 2: Visualization of Data - Charts (30 mins)
 - Introduction to different types of charts and their applications.
 - Hands-on exercises on creating and interpreting charts.
 - Tips for choosing the right chart for specific data types.
 - Dive into more complex chart types and their applications.
 - Practical examples and demonstrations of advanced charting techniques.
  
-### Webinar 3: Visualization of Territories - Maps (12 March 2024, 30 mins)
+### Webinar 3: Visualization of Territories - Maps (30 mins)
 - Importance of mapping in visualization.
 - Introduction to mapping tools and techniques.
 - Hands-on session creating maps and interpreting geographical data.
@@ -41,17 +41,17 @@ All webinars will be organized in Zoom, at 14:00 GMT+3 time. [Compare your time 
 - Bringing them togheher
 - Sharing experience in data collection and processing 
 
-### Webinar 5: Visualization of Connections - Networks (19 March 2024, 30 mins)
+### Webinar 5: Visualization of Connections - Networks (30 mins)
 - Understanding and visualizing relationships between data points.
 - Examples of network visualizations and their significance.
 - Workshop on creating network visualizations.
 
-### Webinar 6: Bringing it Together - Complex Visualization for Storytelling (21 March 2024, 30 mins)
+### Webinar 6: Bringing it Together - Complex Visualization for Storytelling (30 mins)
 - Integration of various visualization techniques for storytelling.
 - Case studies showcasing impactful visual storytelling.
 - Practical session on creating comprehensive visual narratives.
 
-### Workshop / Webinar 7: Individual Project and Feedback (⚒ Practical and 🧙‍♂️ Guided Tiers, 26 March 2024, 45 mins)
+### Workshop / Webinar 7: Individual Project and Feedback (⚒ Practical and 🧙‍♂️ Guided Tiers, 45 mins)
 - Presenting Individual Project 
 - Providing Feedback 
 
