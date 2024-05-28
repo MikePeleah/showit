@@ -12,8 +12,8 @@ There are three possible tracks:
 
 ✨ Every dataset is a canvas, and we're here to help you paint the story. [Register and join!](https://bit.ly/48HHQtw) 👩‍💻
 
-## Schedule (TBC)
-All webinars will be organized in March 2024 (dates TBC) in Zoom, at 14:00 GMT+3 time. [Compare your time online](https://time.is/compare/1400_5_Mar_2024_in_Istanbul)
+## Schedule
+All webinars will be organized in Zoom, at 14:00 GMT+3 time. [Compare your time online](https://time.is/compare/1400_5_Mar_2024_in_Istanbul)
 
 
 ### Webinar 1: Introduction to Visualization and General Principles of Visualization (30 mins)
@@ -36,7 +36,7 @@ All webinars will be organized in March 2024 (dates TBC) in Zoom, at 14:00 GMT+3
 - Introduction to mapping tools and techniques.
 - Hands-on session creating maps and interpreting geographical data.
 
-### Workshop / Webinar 4: Everything is data if you are brave enought  (14 March 2024, 30 mins)
+### Workshop / Webinar 4: Everything is data if you are brave enought  (30 mins)
 - Various sources of data 
 - Bringing them togheher
 - Sharing experience in data collection and processing 
@@ -55,7 +55,6 @@ All webinars will be organized in March 2024 (dates TBC) in Zoom, at 14:00 GMT+3
 - Presenting Individual Project 
 - Providing Feedback 
 
-
 ## Course Materials
 
 💾 Coming soon... 
@@ -65,9 +64,4 @@ All webinars will be organized in March 2024 (dates TBC) in Zoom, at 14:00 GMT+3
 ![Order vs Chaos](/showit/img/Order_vs_Chaos.jpg "Order vs Chaos")
 
 [![LICENSE: Creative Commons Attribution Share Alike 4.0	 cc-by-sa-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png 'CC BY-SA 4.0')](https://creativecommons.org/licenses/by-sa/4.0/)
-
-
-
-
-
 
