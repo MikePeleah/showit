@@ -10,6 +10,7 @@
 Графы и сети имеют [долгую историю](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2). До 18 века они в основном использовались в виде деревьев, например генеаологических деревьев. В их визуализации преобладала эстетическая фцнкция, а число узлов и связей было незначительным. В 18-19 века графы начали активно использоваться в качестве удобного математического аппарата, например для [задачи о семи кёнигсбергских мостах](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BE_%D1%81%D0%B5%D0%BC%D0%B8_%D0%BA%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D1%85_%D0%BC%D0%BE%D1%81%D1%82%D0%B0%D1%85), анализа электрических цепей, органических молекул, и многих других задач. Число узлов и связей оставалось незначительным. Для визуализации графов использовались схематичные изображения вершин и связей между ними, дополнительные параметры редко визуализировались. 
 
 ![Родословное дерево русских государей, 1731](Genealogical_Tree_Russian_Tzars.png)
+
 [Никитин И. Н. Родословное дерево русских государей, 1731. Коллекция Государственного Русского музея](https://rusmuseumvrm.ru/data/collections/painting/17_19/nikitin_i_rodoslovnoe_derevo_russkih_gosudarey_1731_zh_3/index.php)
 
 
@@ -17,17 +18,22 @@
 Интернет начинался в 1969 году с трёх узлов в Университах UCLA и Stanford, но начал очень быстро расти. Если в 1970-х годах схемы интернета ещё умещались на лист бумаги, то [в 2011 году карта интернета](http://internet-map.net/) была похоже на карту галактики — залипательную, но непрактичную. Для визуализации сетей было важно показать взаимосвязи (физические) между узлами и тип узла (используемое оборудование). От этих параметров зависело движение пакетов и пропускная способность узлов — идея была в обеспечении гарантированной передачи пакетов даже при повреждении значительного числа узлов. Так как визуализация всего Интернета стала достаточно непрактичной, подход сдвинулся в сторону визуализации фрагментов сети. В этом случае детально визуализируется только часть, например находящаяся в области ответственности администратора или связанная непосредственно с данным узлом (например, в рутерах). В таком случае указываются узлы, их типы (чаще всего визуализируются стандартными иконками). Такие визцализации могут быть интерактивными и предсотавлять дополнительную информацию (IP адрес, статус, доступ к настройкам доступа и др.)
 
 ![A sketch of the ARPANET in December 1969](A_sketch_of_the_ARPANET_in_December_1969.png)
+
 [A sketch of the ARPANET in December 1969. The nodes at UCLA and the Stanford Research Institute (SRI) are among those depicted. Wikimedia Commons](https://en.wikipedia.org/wiki/File:A_sketch_of_the_ARPANET_in_December_1969.png)
 
 
 ![Arpanet map 1973](Arpanet_map_1973.jpg)
+
 [Map of the ARPANET 1973. Wikimedia Commons](https://en.wikipedia.org/wiki/File:Arpanet_map_1973.jpg)
 
 
 ![Arpanet logical map, march 1977](Arpanet_logical_map,_march_1977.png)
+
 [ARPANET logical map circa 1977. Wikimedia Commons](https://en.wikipedia.org/wiki/File:Arpanet_logical_map,_march_1977.png)
 
+
 ![Illustration of a network topology with wireless and mobile devices where some devices are infected with malware or hacking](Illustration-of-a-network-topology.jpg)
+
 [El-Alfy, El-Sayed & Al-Obeidat, Feras. (2015). Detecting Cyber-Attacks on Wireless Mobile Networks Using Multicriterion Fuzzy Classifier with Genetic Attribute Selection. Mobile Information Systems. 2015. 1-13. 10.1155/2015/585432.](https://www.researchgate.net/publication/282772151_Detecting_Cyber-Attacks_on_Wireless_Mobile_Networks_Using_Multicriterion_Fuzzy_Classifier_with_Genetic_Attribute_Selection)
 
 
@@ -40,10 +46,12 @@
 
 
 ![Zachary karate club](Zachary_karate_club.png)
+
 [(a) The friendship network from Zachary's karate club study. Nodes associated with the club administrator's faction are drawn as circles, those associated with the instructor's faction are drawn as squares. (b) Hierarchical tree showing the complete community structure for the network calculated by using the algorithm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC122977/)
 
 
 ![Santa Fe Institute collaboration network](Santa_Fe_Institute_collaboration_network.jpg)
+
 [The largest component of the Santa Fe Institute collaboration network, with the primary divisions detected by algorithm indicated by different vertex shapes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC122977/)
 
 
@@ -52,13 +60,21 @@
 
 
 ![Визуализация статьи Science mapping software tools: Review, analysis, and cooperative study among tools](connected_papers_0b4c513b66754d5e7c700508629e2d28b1061609.png)
+
 [ConnectedPapers](https://www.connectedpapers.com/main/0b4c513b66754d5e7c700508629e2d28b1061609/graph?utm_source=share_popup&utm_medium=copy_link&utm_campaign=share_graph)
+
+
+Для сравнения большой граф цитирования Web of Science, визуализация Dávid Deritei & Levente Varga (2015 edition)
+![Citation networks in the Web of Science by Dávid Deritei & Levente Varga (2015 edition)](Citation_Network_Web_of_Science_DNS.jpg)
+
+[CEU Department of Network & Data Science, twwet Jan 8, 2018](https://x.com/dnds_ceu/status/950390387834785792)
 
 
 ## Торговля
 Пространство продуктов (Product Space) представляет собой сеть, соединяющую продукты на основании вероятности совместного экспортировата. Эту сеть можно использовать для прогнозирования будущего экспорта, поскольку страны с большей вероятностью начнут экспортировать продукцию, связанную с текущим экспортом. В такой диаграмме размер узлов соответствует объёму экспорта, цвета — товарной группе, подсвечиваются товары имеющие конкурентное преимущество (RCA, Revealed Comparative Advantage). Детали методологиии в статье [Hidalgo, C. A. & Hausmann, R. The building blocks of economic complexity. Proc. Natl Acad. Sci. USA 106, 10570–10575 (2009)](https://doi.org/10.1073/pnas.0900943106)
 
 ![Product Space China, 2022](Product_Space_CHN_2022.png)
+
 [Observatory of Economic Compelxity, Product Space China, 2022](https://oec.world/en/profile/country/chn)
 
 # Потоки 
@@ -66,7 +82,9 @@
 
 ## Материальные потоки
 Евростат использует диаграмму Сэнкей для визуализации материальных потоков в Европейском Союзе 
+
 ![Eurostat Material Flows](Eurostat_Material_Flows.png)
+
 [Material Flows, European Union - year 2022](https://ec.europa.eu/eurostat/cache/sankey/circular_economy/sankey.html)
 
 
@@ -74,6 +92,7 @@
 Визуализация метаболизма городов с помощью диаграмм Сэнкей позволяет наглядно отображать и анализировать потоки ресурсов, энергии и отходов, что способствует лучшему пониманию и может помогать в оптимизации устойчивости и эффективности городских систем — например, выявляя утечки и потери эффектвиности. Диаграммы Санкея важны, потому что они демонстрируют, как ресурсы перемещаются через различные элементы городской инфраструктуры, выявляя узкие места и возможности для улучшения. В этих диаграммах потоки (стрелки) отображают количество и направление перемещающихся ресурсов, энергии или отходов, которые могут изменяться в зависимости от времени и условий, в то время как узлы (основные элементы системы, такие как заводы, жилые здания или транспортные узлы) остаются относительно постоянными, обеспечивая основу для анализа и интерпретации данных.
 
 ![Vancouver B.C. MetaFlow Diagrams for energy (left) and food (right). Credit: Dr. Philip Mansfield/Graphical Memes](MetaFlow_Vancouver.jpeg)
+
 [Urban Metabolism: A Real World Model for Visualizing and Co-Creating Healthy Cities](https://www.thenatureofcities.com/2018/07/24/urban-metabolism-real-world-model-visualizing-co-creating-healthy-cities/)
 
 
